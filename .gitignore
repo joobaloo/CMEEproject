@@ -1,0 +1,8 @@
+*.pdf
+*.aux
+*.blg
+*.log
+*.bbl
+*idea/
+*Rproj.user
+*.out
