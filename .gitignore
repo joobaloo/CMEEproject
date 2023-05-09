@@ -6,3 +6,5 @@
 *idea/
 *Rproj.user
 *.out
+*.ipynb_checkpoints
+
